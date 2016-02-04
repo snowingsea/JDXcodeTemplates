@@ -6,7 +6,7 @@
 
 Xcode模板安装模板路径
 --------------------------
-* `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Custom`
+* `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project\ Templates/iOS/Custom`
 
 联系人
 --------------------------
