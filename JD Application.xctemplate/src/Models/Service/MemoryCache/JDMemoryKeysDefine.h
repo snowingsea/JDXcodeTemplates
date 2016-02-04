@@ -1,0 +1,11 @@
+//
+//  ___FILENAME___
+//  ___PACKAGENAME___
+//
+//___COPYRIGHT___
+//
+
+#ifndef ___PACKAGENAME_______FILEBASENAMEASIDENTIFIER____h
+#define ___PACKAGENAME_______FILEBASENAMEASIDENTIFIER____h
+
+#endif /* ___FILEBASENAMEASIDENTIFIER____h */

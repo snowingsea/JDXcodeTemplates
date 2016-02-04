@@ -1,0 +1,16 @@
+/*
+  ___FILENAME___
+  ___PACKAGENAME___
+
+___COPYRIGHT___
+*/
+
+"Today" =           "今天";
+"Yesterday" =       "昨天";
+
+"JustNow" =         "刚刚";
+"BreforeMinute" =   "分钟前";
+"BreforeHour" =     "小时前";
+"BreforeDay"  =     "天前";
+"BreforeMonth" =    "月前";
+"BreforeYear" =     "年前";
